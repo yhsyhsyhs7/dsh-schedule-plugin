@@ -1,0 +1,11 @@
+{
+  "name": "dsh-plugin-personal-schedule",
+  "version": "1.0.0",
+  "description": "DSH dynamic Cordis plugin: draggable personal schedule panel (today ±14 days) with time ranges and disk persistence.",
+  "license": "MIT",
+  "files": [
+    "host.js",
+    "client.js",
+    "README.md"
+  ]
+}
